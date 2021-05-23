@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "DataLoader": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
